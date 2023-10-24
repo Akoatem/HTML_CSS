@@ -1,0 +1,29 @@
+
+/* change using names colors */
+body{
+    /* background-color: slategray; */
+    background-color: rgb(43, 43, 95);
+}
+
+h1{
+    color: white;
+}
+.hey{
+    text-align: center;
+}
+
+#p1{
+    color: tomato;
+}
+
+#p2{
+    color: rgb(109, 222, 255);
+}
+ 
+#p3{
+    color: #17e6bc;
+}
+
+#p4{
+    color: hsl(127, 21%, 53%);
+}
