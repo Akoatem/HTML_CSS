@@ -1,0 +1,22 @@
+
+#container{
+    border: 2px solid;
+}
+/* descendant */
+/* #container p{
+    background-color: rgb(16, 172, 21);
+} */
+
+/* child
+#container >p{
+    background-color: rgb(16, 172, 21);
+} */
+/* general sibling
+#container ~p{
+    background-color: rgb(16, 172, 21);
+} */
+
+/* adjacent sibling */
+#container + p{
+    background-color: rgb(16, 172, 21);
+}

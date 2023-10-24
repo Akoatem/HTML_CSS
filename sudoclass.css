@@ -1,0 +1,14 @@
+/* sudoclass */
+
+a:link{
+    color: hsl(0, 92%, 50%);
+}
+a:hover{
+    color: hsl(54, 95%, 50%);
+    font-size: 1.1em;
+}
+
+a:active{
+    color: hsl(233, 40%, 20%);
+    font-size: 1.1em;
+}

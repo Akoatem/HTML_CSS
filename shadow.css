@@ -1,0 +1,17 @@
+
+
+h1{
+    color: white;
+    text-shadow: 7px 7px 5px hsl(0, 82%, 58%);
+}
+
+.she{
+    text-align: center;
+}
+
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: blanchedalmond;
+    box-shadow: 3px 3px 15px;
+}
